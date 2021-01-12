@@ -1,0 +1,13 @@
+.panda-slide{
+    background-color: blanchedalmond;
+}
+.categories img{
+    width: 100px;
+}
+.panda-card{
+    border: none;
+}
+.panda-card-footer{
+    border: none;
+    background-color: white;
+}
